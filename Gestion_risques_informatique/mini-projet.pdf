@@ -1,0 +1,17 @@
+Mini-Projet : Utilisation de Git & GitHub pour le Suivi de vos Cours 
+Période : du 21 au 28 mai 2025 
+La gestion des risques informatiques est l’ensemble des processus visant à 
+identifier, évaluer, prévenir et atténuer les menaces pesant sur les systèmes d'information 
+(pannes, cyberattaques, erreurs humaines, pertes de données, etc.). 
+Dans ce cadre, Git (système de gestion de versions) et GitHub (plateforme collaborative) 
+jouent un rôle clé en : 
+ Assurant la traçabilité des modifications, ce qui permet de revenir rapidement à 
+une version stable en cas d’incident ; 
+ Réduisant les erreurs humaines grâce à la validation du code ; 
+ Sécurisant le code source grâce à des sauvegardes dans le cloud, minimisant les 
+risques de perte ou de corruption ; 
+ Automatisant les tests via l’intégration continue, pour prévenir les défaillances avant 
+la mise en production ; 
+ Facilitant les audits grâce à un historique horodaté de toutes les actions. 
+Ainsi, Git et GitHub sont des leviers puissants de maîtrise des risques dans tout 
+environnement informatique.
